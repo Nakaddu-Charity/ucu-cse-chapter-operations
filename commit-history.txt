@@ -113,3 +113,4 @@ Commit 22 - Refactor code on 2025-02-16 21:51:02
 Commit 23 - Fix error handling on 2025-01-14 12:25:30
 Commit 24 - Update README on 2025-02-19 18:08:47
 Commit 25 - Fix error handling on 2025-02-08 17:18:11
+Commit 26 - Add comments on 2025-04-01 11:22:24
